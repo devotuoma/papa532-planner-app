@@ -1,0 +1,16 @@
+[debug] [2023-06-27T06:36:25.278Z] ----------------------------------------------------------------------
+[debug] [2023-06-27T06:36:25.281Z] Command:       /home/papa/.nvm/versions/node/v20.1.0/bin/node /home/papa/.nvm/versions/node/v20.1.0/bin/firebase login
+[debug] [2023-06-27T06:36:25.281Z] CLI Version:   12.4.0
+[debug] [2023-06-27T06:36:25.282Z] Platform:      linux
+[debug] [2023-06-27T06:36:25.282Z] Node Version:  v20.1.0
+[debug] [2023-06-27T06:36:25.282Z] Time:          Tue Jun 27 2023 09:36:25 GMT+0300 (East Africa Time)
+[debug] [2023-06-27T06:36:25.282Z] ----------------------------------------------------------------------
+[debug] 
+[info] i  Firebase optionally collects CLI and Emulator Suite usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[info] i  To change your data collection preference at any time, run `firebase logout` and log in again. 
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=94388543&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
